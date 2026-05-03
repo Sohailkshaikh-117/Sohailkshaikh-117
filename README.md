@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./myBannerPro.jpg" alt="Banner" width="100%" />
+</p>
+
 # Hi, I'm Sohail 👋
 
 - 🖥️ Frontend engineer focused on building scalable React applications
